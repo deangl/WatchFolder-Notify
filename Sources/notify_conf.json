@@ -1,0 +1,13 @@
+{
+    "watch_dir": [
+        "D:\\temp",
+        "∆‰À˚"
+    ],
+    "watch_file": [
+        "bak",
+        {
+            "re": "πÃ ’",
+            "action": "c"
+        }
+    ]
+}
